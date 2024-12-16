@@ -16,7 +16,7 @@ let resta = numero - 4;
 console.log ("El resultado de la resta es:" , resta); 
 
 //2. Concatena el “string” de la variable texto con otro mensaje adicional.
- let mensaje = texto + "dame tu calor";
+ let mensaje = texto + " dame tu calor";
  console.log ("Mensaje completo: ", mensaje);
 
 //3. Verifica si la variable “verdadero” es true o false y muestra un mensaje diferente según el resultado.

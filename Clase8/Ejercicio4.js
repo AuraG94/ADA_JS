@@ -6,7 +6,7 @@ const prompt = require("prompt-sync")({ sigint: true });
 
 let numero = parseFloat (prompt ('Ingresa un numero entero: '));
 let resultado = ""
-if (numero % 2=== 0) {resultado = "par";
+if (numero % 2 === 0) {resultado = "par";
 } else { resultado = "impar";
 }
 
